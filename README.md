@@ -8,6 +8,7 @@ A collection of bash scripts for common system administration tasks, including s
 
 ```bash
 git clone https://github.com/konst-alexandrovv/base-admin-scripts/
+cd base-admin-scripts/
 ./install.sh
 ```
 
